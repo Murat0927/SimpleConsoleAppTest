@@ -57,10 +57,7 @@ namespace ConsoleApp
                 Console.WriteLine(i.ToString());
             }
             Console.WriteLine("----------------------");
-            foreach(var subject in testFaculty.subjects)
-            {
-                Console.WriteLine(subject);
-            }
+           
             Console.ReadKey();
         }
     }
