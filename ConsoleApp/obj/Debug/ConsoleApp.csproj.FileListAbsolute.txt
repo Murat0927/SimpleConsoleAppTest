@@ -5,3 +5,10 @@ C:\Users\inTech_PC\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.cspro
 C:\Users\inTech_PC\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\inTech_PC\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
 C:\Users\inTech_PC\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\inTech_PC\Desktop\SimpleConsoleAppTest-main\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\inTech_PC\Desktop\SimpleConsoleAppTest-main\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\inTech_PC\Desktop\SimpleConsoleAppTest-main\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\inTech_PC\Desktop\SimpleConsoleAppTest-main\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\inTech_PC\Desktop\SimpleConsoleAppTest-main\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\inTech_PC\Desktop\SimpleConsoleAppTest-main\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\inTech_PC\Desktop\SimpleConsoleAppTest-main\ConsoleApp\obj\Debug\ConsoleApp.pdb
